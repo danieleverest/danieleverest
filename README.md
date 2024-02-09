@@ -13,7 +13,6 @@ Software design and development have always been my biggest passion, because of 
 - <b>Mobile App Cross-Platform, Hybrid</b> : React Native, Flutter
 - <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
 - <b>Libraries</b> : RefluxJS, React, React Redux, Vue, jQuery UI, Facebook API, Bootstrap, jQuery, Material-TailwindCSS, Material UI, Antd, Backbone.js, HTML5 Canvas
-//- <b>BlockChain</b> : Web3.js, Ether.js, Wagmi, Hardhat, Truffle, Ethereum, Solana, DeFi, Dex, NFT
 - <b>Tools</b> : Git, Webpack, Atom, Geany, Sentry
 - <b>UI/UX Design</b> : Figma, Adobe XD, Photoshop
 
@@ -43,7 +42,7 @@ Software design and development have always been my biggest passion, because of 
 <h3 align="left">Mobile</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter,swift,kotlin,java" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter,swift" />
   </a>
 </p>
 <h3 align="left">DataBase</h3>
