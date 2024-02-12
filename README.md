@@ -7,13 +7,13 @@ Software design and development have always been my biggest passion, because of 
 
 ## Skills
 
-- <b>Languages</b> : HTML, CSS, JavaScript, TypeScript, PHP, Python, C#, Java, Dart, GraphQL, Solidity
+- <b>Languages</b> : HTML, CSS, JavaScript, TypeScript, PHP, C#, GraphQL, ASP.net
 - <b>Web Frontend</b> : React.js, Angular.js, Next.js, Svelte
 - <b>Backend</b> : PHP / Laravel, Node.js / Express
 - <b>Mobile App Cross-Platform, Hybrid</b> : React Native, Flutter
 - <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
-- <b>Libraries</b> : RefluxJS, React, React Redux, Vue, jQuery UI, Facebook API, Bootstrap, jQuery, Material-TailwindCSS, Material UI, Antd, Backbone.js, HTML5 Canvas
-- <b>Tools</b> : Git, Webpack, Atom, Geany, Sentry
+- <b>Libraries</b> : RefluxJS, React, React Redux, Vue, jQuery UI, Bootstrap, jQuery, Material-TailwindCSS, Material UI, Antd, Backbone.js, HTML5 Canvas
+- <b>Tools</b> : Git, Webpack, Atom
 - <b>UI/UX Design</b> : Figma, Adobe XD, Photoshop
 
 ## Connect with me
