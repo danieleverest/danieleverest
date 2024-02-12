@@ -23,6 +23,8 @@ Software design and development have always been my biggest passion, because of 
   <a target="_blank" href = "https://join.skype.com/invite/gZFuoNEpP5hG"><img src="https://img.shields.io/badge/-Skype-%23333?style=for-the-badge&logo=skype&logoColor=blue" /></a>
 <!--   <a href = "https://join.slack.com/t/danielsworksp-rhq1949/shared_invite/zt-25ythaztd-qka1KoDvdxBwhPJAOhxrHQ"><img src="https://img.shields.io/badge/-Slack-%23333?style=for-the-badge&logo=slack&logoColor=white" target="_blank"/></a> -->
   <a target="_blank" href = "https://www.linkedin.com/in/daniel-everest-9984432b3/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
+  <a target="_blank" href = "https://discordapp.com/users/1206443560690516069"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=blue"/></a>
+<!--   https://discord.com/channels/1206443560690516069 -->
 </p>
 
 ## Languages & Tools
