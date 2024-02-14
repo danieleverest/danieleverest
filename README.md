@@ -30,6 +30,7 @@ Let's connect and explore collaboration possibilities.</p>
 <!--   <a href = "https://join.slack.com/t/danielsworksp-rhq1949/shared_invite/zt-25ythaztd-qka1KoDvdxBwhPJAOhxrHQ"><img src="https://img.shields.io/badge/-Slack-%23333?style=for-the-badge&logo=slack&logoColor=white" target="_blank"/></a> -->
   <a target="_blank" href = "https://www.linkedin.com/in/daniel-everest-9984432b3/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
   <a target="_blank" href = "https://discordapp.com/users/1206442515150938123"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=blue"/></a>
+  <a target="_blank" href = "https://t.me/devgenius0214"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=blue"/></a>
 <!--   https://discord.com/channels/1206443560690516069 -->
 </p>
 
