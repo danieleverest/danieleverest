@@ -1,18 +1,24 @@
 ## Welcome to my Github!
 
-<p>Hello! I'm Daniel, an passionate software engineer.
+<p>Hello! I'm Daniel, an passionate Senior front-end developer with over 6+ years of experience specializing in web application development, Agile, Scrum, and UX design. A strong history of executing large-scale projects for enterprise clients with diverse web development teams. We are adept at driving innovation and delivering world-class UX.
 
-Software design and development have always been my biggest passion, because of its ability to transform idea into reality with the essence of efficiency! I particularly find it purposeful therefore enjoyable when learning and building with different brains as a team towards a shared vision. I am eager to use my technological skills and creativity to provide service/product to fill in the gaps in this society and make this world a better place.</p>
+Proficient in collaborating with backend teams to integrate user-facing elements with server-side logic, implementing automated testing platforms, and optimizing components for maximum performance.
+
+For the past 6 years, have been designing and developing websites, using a keen eye for interactive design to develop pixel-perfect code that translates static design concepts into engaging digital experiences.
+
+I am always pursuing something new and looking for a company where I can dedicate my passion and skills to make my dreams come true.
+
+Let's connect and explore collaboration possibilities.</p>
 
 
 ## Skills
 
-- <b>Languages</b> : HTML, CSS, JavaScript, TypeScript, PHP, C#, GraphQL, ASP.net
+- <b>Languages</b> : HTML, CSS, JavaScript, TypeScript, PHP
 - <b>Web Frontend</b> : React.js, Angular.js, Next.js, Svelte
-- <b>Backend</b> : PHP / Laravel, Node.js / Express
+- <b>Backend</b> : Node.js / Express, PHP / Laravel
 - <b>Mobile App Cross-Platform, Hybrid</b> : React Native, Flutter
 - <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
-- <b>Libraries</b> : RefluxJS, React, React Redux, Vue, jQuery UI, Bootstrap, jQuery, Material-TailwindCSS, Material UI, Antd, Backbone.js, HTML5 Canvas
+- <b>Libraries</b> : RefluxJS, React, React Redux, Vite, Next.js, jQuery UI, Bootstrap, jQuery, Material-TailwindCSS, Material UI, Antd, Backbone.js, HTML5 Canvas
 - <b>Tools</b> : Git, Webpack, Atom
 - <b>UI/UX Design</b> : Figma, Adobe XD, Photoshop
 
