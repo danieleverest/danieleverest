@@ -32,13 +32,13 @@ Software design and development have always been my biggest passion, because of 
 <h3 align="left">Front-end</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,react,sass,vue" />
+    <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,css,html,js,jquery,sass,nextjs,tailwindcss" />
   </a>
 </p>
 <h3 align="left">Backend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,express,flask,laravel,nextjs,nestjs,nodejs,php,py,symfony,wordpress,django,fastapi" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,symfony,wordpress" />
   </a>
 </p>
 <h3 align="left">Mobile</h3>
@@ -50,13 +50,13 @@ Software design and development have always been my biggest passion, because of 
 <h3 align="left">DataBase</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,graphql,mongodb,mysql,postgres,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,sqlite" />
   </a>
 </p>
 <h3 align="left">Tools</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,docker,figma,photoshop,github,gitlab,nginx,postman,visualstudio,vscode,xd" />
+    <img src="https://skillicons.dev/icons?i=github,gitlab,azure,docker,figma,photoshop,nginx,postman,visualstudio,vscode" />
   </a>
 </p>
 
