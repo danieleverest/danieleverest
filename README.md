@@ -1,5 +1,7 @@
-## Welcome to my Github!
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+
+## Welcome to my Github!
+
 <p>Hello! I'm Daniel, an passionate Senior front-end developer with over 6+ years of experience specializing in web application development, Agile, Scrum, and UX design. A strong history of executing large-scale projects for enterprise clients with diverse web development teams. We are adept at driving innovation and delivering world-class UX.
 
 Proficient in collaborating with backend teams to integrate user-facing elements with server-side logic, implementing automated testing platforms, and optimizing components for maximum performance.
