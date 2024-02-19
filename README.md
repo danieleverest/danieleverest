@@ -1,6 +1,9 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
-## Welcome to my Github!
+## HELLO, Welcome to my Github!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/sudoboyy/sudoboyy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/sudoboyy/sudoboyy/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <p>Hello! I'm Daniel, an passionate Senior front-end developer with over 6+ years of experience specializing in web application development, Agile, Scrum, and UX design. A strong history of executing large-scale projects for enterprise clients with diverse web development teams. We are adept at driving innovation and delivering world-class UX.
 
