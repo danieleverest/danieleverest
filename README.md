@@ -1,12 +1,12 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yeazin&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/yeazin)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=danieleverest&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/danieleverest)
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeazin/)
+
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:naz.yeasin@gmail.com)
 ![](https://komarev.com/ghpvc/?username=yeazin&color=brightgreen&style=for-the-badge)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/yeazin.io)
@@ -41,13 +41,14 @@ Let's connect and explore collaboration possibilities.</p>
 
 <p align="left">
   <a href = "mailto:danieleverest0214@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
-  <a target="_blank" href = "https://join.skype.com/invite/gZFuoNEpP5hG"><img src="https://img.shields.io/badge/-Skype-%23333?style=for-the-badge&logo=skype&logoColor=blue" /></a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieleverest0214/)
 <!--   <a href = "https://join.slack.com/t/danielsworksp-rhq1949/shared_invite/zt-25ythaztd-qka1KoDvdxBwhPJAOhxrHQ"><img src="https://img.shields.io/badge/-Slack-%23333?style=for-the-badge&logo=slack&logoColor=white" target="_blank"/></a> -->
   <a target="_blank" href = "https://www.instagram.com/danieleverest214?igsh=c3h1YTZ5amF0bmdy"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=red"/></a>
   <a target="_blank" href = "https://www.facebook.com/profile.php?id=61556352754672&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-%23333?style=for-the-badge&logo=facebook&logoColor=blue"/></a>
   <a target="_blank" href = "https://twitter.com/DanielEverest18"><img src="https://img.shields.io/badge/-Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=blue"/></a>
   <a target="_blank" href = "https://discordapp.com/users/1206442515150938123"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=blue"/></a>
   <a target="_blank" href = "https://t.me/devgenius0214"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=blue"/></a>
+  <a target="_blank" href = "https://join.skype.com/invite/gZFuoNEpP5hG"><img src="https://img.shields.io/badge/-Skype-%23333?style=for-the-badge&logo=skype&logoColor=blue" /></a>
 <!--   https://discord.com/channels/1206443560690516069 -->
 </p>
 
