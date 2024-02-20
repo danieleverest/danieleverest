@@ -21,14 +21,14 @@
 <!--   https://discord.com/channels/1206443560690516069 -->
 </p>
 
-
+<!--
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:naz.yeasin@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieleverest0214/)
 ![](https://komarev.com/ghpvc/?username=danieleverest&color=brightgreen&style=for-the-badge)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/yeazin.io)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-
+-->
 ## Hello, Welcome to my Github!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
 <p>Hello! I'm Daniel, an passionate Senior front-end developer with over 6+ years of experience specializing in web application development, Agile, Scrum, and UX design. A strong history of executing large-scale projects for enterprise clients with diverse web development teams. We are adept at driving innovation and delivering world-class UX.
@@ -40,6 +40,13 @@ For the past 6 years, have been designing and developing websites, using a keen 
 I am always pursuing something new and looking for a company where I can dedicate my passion and skills to make my dreams come true.
 
 Let's connect and explore collaboration possibilities.</p>
+
+ <table align="center" width="100%" height="100%" >
+   <tr>
+      <td>![Github stats](https://github-readme-stats.vercel.app/api?username=danieleverest&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
+      <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieleverest&theme=radical&layout=compact)](https://github.com/danieleverest) </td>
+   </tr>
+  </table>
 
 
 ## Skills
