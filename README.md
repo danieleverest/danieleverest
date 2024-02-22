@@ -5,7 +5,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=danieleverest&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/danieleverest)
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
+ <img src="https://komarev.com/ghpvc/?username=danieleverest&label=Profile%20views&color=0e75b6&style=flat" alt="danieleverest" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" />
  <img alt="Profile followers" src="https://img.shields.io/github/followers/danieleverest"> -->
 </p>
