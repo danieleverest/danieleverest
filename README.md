@@ -1,9 +1,9 @@
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=danieleverest&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/danieleverest)
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
@@ -111,8 +111,9 @@ Let's connect and explore collaboration possibilities.</p>
 <h3 align="left">Tools</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git" />
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=git,gitlab,azure" />
+    <img src="https://skillicons.dev/icons?i=gitlab,azure" />
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://skillicons.dev/icons?i=figma,photoshop,nginx,postman,visualstudio,vscode" />
     <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="50" height="50" />
