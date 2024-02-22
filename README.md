@@ -64,16 +64,23 @@ I am always pursuing something new and looking for a company where I can dedicat
 Let's connect and explore collaboration possibilities.</p>
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats </h2>
+
  <table align="center" width="100%" height="100%" >
    <tr>
-     <td> 
-  
+     <td>
+       
 ![Github stats](https://github-readme-stats.vercel.app/api?username=danieleverest&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
      <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&theme=radical&layout=compact)](https://github.com/danieleverest) </td>
    </tr>
+   <tr>
+     <td>   
+       
+  [![danieleverest's GitHub | Stats](https://stats.quine.sh/danieleverest/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=danieleverest) 
+     </td>
+   </tr>
   </table>
 
-  [![danieleverest's GitHub | Stats](https://stats.quine.sh/danieleverest/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=danieleverest)
+  
 
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
@@ -81,9 +88,9 @@ Let's connect and explore collaboration possibilities.</p>
 - <b>Languages</b> : HTML, CSS, JavaScript, TypeScript, PHP
 - <b>Web Frontend</b> : React.js, Angular.js, Next.js, Svelte
 - <b>Backend</b> : Node.js / Express, PHP / Laravel
-- <b>Mobile App Cross-Platform, Hybrid</b> : React Native, Flutter
 - <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
 - <b>Libraries</b> : RefluxJS, React, React Redux, Vite, Next.js, jQuery UI, Bootstrap, jQuery, Material-TailwindCSS, Material UI, Antd, Backbone.js, HTML5 Canvas
+- <b>Mobile App Cross-Platform, Hybrid</b> : React Native, Flutter
 - <b>Tools</b> : Git, Webpack, Atom
 - <b>UI/UX Design</b> : Figma, Adobe XD, Photoshop
 
