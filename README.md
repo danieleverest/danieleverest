@@ -10,6 +10,12 @@
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" />
  <img alt="Profile followers" src="https://img.shields.io/github/followers/danieleverest"> -->
 </p>
+
+
+<div align="center">
+  <img height="20" src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg"/>
+<img height="20" src="https://visitcount.itsvg.in/api?id=danieleverest&icon=0&color=0"/>
+</div>
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
 
