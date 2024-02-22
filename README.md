@@ -16,6 +16,14 @@
  <img alt="Profile followers" src="https://img.shields.io/github/followers/danieleverest"> -->
 </p>
 
+<h3 align="center">Profile Views:</h3>
+
+<p align="center">
+    <a href="https://visitcount.itsvg.in/api?id=danieleverest&label=Profile%20Views&color=6&icon=1&pretty=true">
+        <img src="https://visitcount.itsvg.in/api?id=danieleverest&label=Profile%20Views&color=6&icon=1&pretty=true" alt="Profile Views">
+    </a>
+</p>
+
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
 ## Connect with me
@@ -65,12 +73,9 @@ Let's connect and explore collaboration possibilities.</p>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=danieleverest&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
      <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&theme=radical&layout=compact)](https://github.com/danieleverest) </td>
    </tr>
-   <tr>
-    <td>
-[![danieleverest's GitHub | Stats](https://stats.quine.sh/danieleverest/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=danieleverest)
-    </td>
-     </tr>
   </table>
+
+  [![danieleverest's GitHub | Stats](https://stats.quine.sh/danieleverest/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=danieleverest)
 
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
