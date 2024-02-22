@@ -1,17 +1,16 @@
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=danieleverest&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/danieleverest)
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
 ## Connect with me
 
 <p align="left">
   <a href = "mailto:danieleverest0214@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
-
-<!--   <a href = "https://join.slack.com/t/danielsworksp-rhq1949/shared_invite/zt-25ythaztd-qka1KoDvdxBwhPJAOhxrHQ"><img src="https://img.shields.io/badge/-Slack-%23333?style=for-the-badge&logo=slack&logoColor=white" target="_blank"/></a> -->
   <a target="_blank" href = "https://www.linkedin.com/in/danieleverest214"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
   <a target="_blank" href = "https://www.instagram.com/danieleverest214?igsh=c3h1YTZ5amF0bmdy"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=red"/></a>
   <a target="_blank" href = "https://www.facebook.com/profile.php?id=61556352754672&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-%23333?style=for-the-badge&logo=facebook&logoColor=blue"/></a>
@@ -19,6 +18,8 @@
   <a target="_blank" href = "https://discordapp.com/users/1206442515150938123"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=blue"/></a>
   <a target="_blank" href = "https://t.me/devgenius0214"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=blue"/></a>
   <a target="_blank" href = "https://join.skype.com/invite/gZFuoNEpP5hG"><img src="https://img.shields.io/badge/-Skype-%23333?style=for-the-badge&logo=skype&logoColor=blue" /></a>
+  <a href = "https://join.slack.com/t/danielsworksp-rhq1949/shared_invite/zt-25ythaztd-qka1KoDvdxBwhPJAOhxrHQ"><img src="https://img.shields.io/badge/-Slack-%23333?style=for-the-badge&logo=slack&logoColor=white" target="_blank"/></a>
+
 <!--   https://discord.com/channels/1206443560690516069 -->
 </p>
 
@@ -91,12 +92,13 @@ Let's connect and explore collaboration possibilities.</p>
 <h3 align="left">Front-end</h3>
 <p align="left">
   <a href="https://skillicons.dev">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/angular-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,nextjs,tailwindcss" />
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,nextjs,tailwindcss" />
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,nextjs,tailwindcss" />
     <img src="https://skillicons.dev/icons?i=angular" />
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" height="50" />
   </a>
 </p>
 <h3 align="left">Backend</h3>
@@ -120,7 +122,7 @@ Let's connect and explore collaboration possibilities.</p>
 <h3 align="left">Tools</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,gitlab,azure,docker,figma,photoshop,nginx,postman,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,azure,docker,figma,photoshop,nginx,postman,visualstudio,vscode" />
   </a>
 </p>
 
