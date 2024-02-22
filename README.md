@@ -2,7 +2,7 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=800&height=100&lines=Code+is+Life..&hearts;++;Analytical and Problem-Solving,;Adaptablility and Flexability,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=800&height=100&lines=Code+is+Life..&hearts;++;Analytical+and+Problem-Solving,;Adaptablility+and+Flexability,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=danieleverest&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/danieleverest)
