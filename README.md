@@ -5,13 +5,13 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=danieleverest&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/danieleverest)
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=danieleverest&label=Profile%20views&color=0e75b6&style=flat" alt="danieleverest" /> 
+<!--  <img src="https://komarev.com/ghpvc/?username=danieleverest&label=Profile%20views&color=0e75b6&style=flat" alt="danieleverest" />  -->
+![](https://komarev.com/ghpvc/?username=danieleverest)
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" />
  <img alt="Profile followers" src="https://img.shields.io/github/followers/danieleverest"> -->
 </p>
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
-![](https://komarev.com/ghpvc/?username=danieleverest)
 
 ## Connect with me
 
