@@ -18,7 +18,6 @@
 
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
-
 ## Connect with me
 
 <p align="left">
@@ -58,7 +57,7 @@ I am always pursuing something new and looking for a company where I can dedicat
 
 Let's connect and explore collaboration possibilities.</p>
 
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats </h2>
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats </h2>
  <table align="center" width="100%" height="100%" >
    <tr>
      <td> 
@@ -66,10 +65,15 @@ Let's connect and explore collaboration possibilities.</p>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=danieleverest&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
      <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&theme=radical&layout=compact)](https://github.com/danieleverest) </td>
    </tr>
+   <tr>
+    <td>
+[![danieleverest's GitHub | Stats](https://stats.quine.sh/danieleverest/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=danieleverest)
+    </td>
+     </tr>
   </table>
 
 
-<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
 - <b>Languages</b> : HTML, CSS, JavaScript, TypeScript, PHP
 - <b>Web Frontend</b> : React.js, Angular.js, Next.js, Svelte
@@ -82,10 +86,6 @@ Let's connect and explore collaboration possibilities.</p>
 
 
 ## Languages & Tools
-
-<div align="center">
- 
-</div>
 
 <h3 align="left">Front-end</h3>
 <p align="left">
