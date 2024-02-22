@@ -72,14 +72,12 @@ Let's connect and explore collaboration possibilities.</p>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=danieleverest&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
      <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&theme=radical&layout=compact)](https://github.com/danieleverest) </td>
    </tr>
-   <tr>
-     <td>   
-       
-  [![danieleverest's GitHub | Stats](https://stats.quine.sh/danieleverest/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=danieleverest) 
-     </td>
-   </tr>
   </table>
 
+<div align="center">
+  
+  [![danieleverest's GitHub | Stats](https://stats.quine.sh/danieleverest/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=danieleverest) 
+</div>
   
 
 
