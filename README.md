@@ -11,7 +11,8 @@
 </p>
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
- ![](https://komarev.com/ghpvc/?username=danieleverest)
+![](https://komarev.com/ghpvc/?username=danieleverest)
+
 ## Connect with me
 
 <p align="left">
