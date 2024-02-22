@@ -71,22 +71,7 @@ Let's connect and explore collaboration possibilities.</p>
 ## Languages & Tools
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="50" height="50" />
-</div>
-<br>
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-<!--   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" /> -->
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+ 
 </div>
 
 <h3 align="left">Front-end</h3>
@@ -94,11 +79,12 @@ Let's connect and explore collaboration possibilities.</p>
   <a href="https://skillicons.dev">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/angular-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,nextjs,tailwindcss" />
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,nextjs,tailwindcss" />
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,nextjs,tailwindcss" />
-    <img src="https://skillicons.dev/icons?i=angular" />
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=jquery,nextjs,tailwindcss" />
+   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
   </a>
 </p>
 <h3 align="left">Backend</h3>
@@ -110,19 +96,29 @@ Let's connect and explore collaboration possibilities.</p>
 <h3 align="left">Mobile</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter,swift" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter" />
+    <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="50" height="50" />
   </a>
 </p>
 <h3 align="left">DataBase</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=firebase,postgres,sqlite" />
   </a>
 </p>
 <h3 align="left">Tools</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,azure,docker,figma,photoshop,nginx,postman,visualstudio,vscode" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,azure" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,nginx,postman,visualstudio,vscode" />
+    <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
   </a>
 </p>
 
