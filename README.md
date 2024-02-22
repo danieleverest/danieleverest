@@ -77,9 +77,7 @@ Let's connect and explore collaboration possibilities.</p>
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="50" height="50" />
 </div>
-
 <br>
-
 <div align="center">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="50" height="50" />
@@ -93,7 +91,12 @@ Let's connect and explore collaboration possibilities.</p>
 <h3 align="left">Front-end</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,css,html,js,jquery,sass,nextjs,tailwindcss" />
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,nextjs,tailwindcss" />
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,nextjs,tailwindcss" />
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,nextjs,tailwindcss" />
+    <img src="https://skillicons.dev/icons?i=angular" />
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" height="50" />
   </a>
 </p>
 <h3 align="left">Backend</h3>
