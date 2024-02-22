@@ -111,9 +111,7 @@ Let's connect and explore collaboration possibilities.</p>
 <h3 align="left">Tools</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=gitlab,azure" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,azure" />
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://skillicons.dev/icons?i=figma,photoshop,nginx,postman,visualstudio,vscode" />
     <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="50" height="50" />
