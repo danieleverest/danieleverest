@@ -11,16 +11,6 @@
 </div>
 
 
-## Profile Views:
-<!--
-<p align="center">
-    <a href="https://visitcount.itsvg.in/api?id=danieleverest&label=Profile%20Views&color=6&icon=1&pretty=true">
-        <img src="https://visitcount.itsvg.in/api?id=danieleverest&label=Profile%20Views&color=6&icon=1&pretty=true" alt="Profile Views">
-    </a>
-</p>
- -->
-
-
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
 ## Connect with me
@@ -142,6 +132,14 @@ Let's connect and explore collaboration possibilities.</p>
 </p>
 
 
+## Profile Views:
+<!--
+<p align="center">
+    <a href="https://visitcount.itsvg.in/api?id=danieleverest&label=Profile%20Views&color=6&icon=1&pretty=true">
+        <img src="https://visitcount.itsvg.in/api?id=danieleverest&label=Profile%20Views&color=6&icon=1&pretty=true" alt="Profile Views">
+    </a>
+</p>
+ -->
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=danieleverest&label=Profile%20views&color=0e75b6&style=flat" alt="danieleverest" /> 
 <!-- ![](https://komarev.com/ghpvc/?username=danieleverest) -->
