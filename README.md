@@ -42,7 +42,7 @@
 
 ## Hello, Welcome to my Github!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
-<p>Hello! I'm Daniel, an passionate Senior front-end developer with over 6+ years of experience specializing in web application development, Agile, Scrum, and UX design. A strong history of executing large-scale projects for enterprise clients with diverse web development teams. We are adept at driving innovation and delivering world-class UX.
+<p>Hello! I'm Daniel, a passionate Senior front-end developer with over 6+ years of experience specializing in web application development, Agile, Scrum, and UX design. A strong history of executing large-scale projects for enterprise clients with diverse web development teams. We are adept at driving innovation and delivering world-class UX.
 
 Proficient in collaborating with backend teams to integrate user-facing elements with server-side logic, implementing automated testing platforms, and optimizing components for maximum performance.
 
@@ -65,7 +65,8 @@ Let's connect and explore collaboration possibilities.</p>
 
 <div align="center">
   
-  [![danieleverest's GitHub | Stats](https://stats.quine.sh/danieleverest/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=danieleverest) 
+  
+  
 </div>
   
 
