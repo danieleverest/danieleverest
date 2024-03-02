@@ -59,7 +59,7 @@ Let's connect and explore collaboration possibilities.</p>
      <td>
        
 ![Github stats](https://github-readme-stats.vercel.app/api?username=danieleverest&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
-     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&theme=radical&layout=compact)](https://github.com/danieleverest) </td>
+     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieleverest&theme=radical&layout=compact)](https://github.com/danieleverest) </td>
    </tr>
   </table>
 
