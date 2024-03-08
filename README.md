@@ -6,7 +6,7 @@
 </p>
 
 <div>
-  <p align="center"><img src="https://github.com/danieleverest/danieleverest/blob/main/logo.gif" width="500"/></p>
+  <p align="center"><img src="https://github.com/danieleverest/danieleverest/blob/main/Logo.gif" width="500"/></p>
 </div>
 
 
