@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/danieleverest/danieleverest/blob/main/Logo1.gif" width="300"/>
+  <img src="https://github.com/danieleverest/danieleverest/blob/main/logo.png" width="300"/>
 </p>
 
 <p align="center">
