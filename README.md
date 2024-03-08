@@ -6,11 +6,7 @@
 </p>
 
 <div>
-
-<p align="center"><img src="https://drive.google.com/file/d/18RhtkvCuEgC9yMckFKYMaNj9f2O3mr7k/view?usp=drive_link" width="100"/></p>
-
-
-<video src='https://drive.google.com/file/d/1eEiSNnuKbvIRnwKO18WXuq7QhfQZADBn/view?usp=drive_link' width=180/>
+  <p align="center"><img src="https://github.com/danieleverest/danieleverest/blob/main/logo.gif" width="500"/></p>
 </div>
 
 
