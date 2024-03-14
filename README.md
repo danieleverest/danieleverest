@@ -53,6 +53,7 @@ I am always pursuing something new and looking for a company where I can dedicat
 
 Let's connect and explore collaboration possibilities.</p>
 
+
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
 - <b>Languages</b> : HTML, CSS, JavaScript, TypeScript, PHP
@@ -114,7 +115,8 @@ Let's connect and explore collaboration possibilities.</p>
   </a>
 </p>
 
-<b>⚡ Github Stats</b>
+
+## Github Stats
 
 <p align="center">
     <a href="https://github-readme-activity-graph.vercel.app/graph?username=danieleverest&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
