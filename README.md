@@ -41,7 +41,7 @@
 -->
 
 
-## Hello, Welcome to my Github!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+## Hello, Welcome to my Github!
 
 <p>Hello! I'm Daniel, a passionate Senior front-end developer with over 6+ years of experience specializing in web application development, Agile, Scrum, and UX design. A strong history of executing large-scale projects for enterprise clients with diverse web development teams. We are adept at driving innovation and delivering world-class UX.
 
@@ -56,14 +56,7 @@ Let's connect and explore collaboration possibilities.</p>
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
-- <b>Languages</b> : HTML, CSS, JavaScript, TypeScript, PHP
-- <b>Web Frontend</b> : React.js, Angular.js, Next.js, Svelte
-- <b>Backend</b> : Node.js / Express, PHP / Laravel
-- <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
-- <b>Libraries</b> : RefluxJS, React, React Redux, Vite, Next.js, jQuery UI, Bootstrap, jQuery, Material-TailwindCSS, Material UI, Antd, Backbone.js, HTML5 Canvas
-- <b>Mobile App Cross-Platform, Hybrid</b> : React Native, Flutter
-- <b>Tools</b> : Git, Webpack, Atom
-- <b>UI/UX Design</b> : Figma, Adobe XD, Photoshop
+- React.js, Angular.js, Next.js, Node.js / Express, MongoDB, Redux, Vite, Material-TailwindCSS
 
 
 ## Languages & Tools
