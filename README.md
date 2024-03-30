@@ -19,9 +19,9 @@
 <p align="left">
   <a href = "mailto:danieleverest0214@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
 <!--   <a target="_blank" href = "https://www.linkedin.com/in/danieleverest214"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue"/></a> -->
-  <a target="_blank" href = "https://www.instagram.com/danieleverest214?igsh=c3h1YTZ5amF0bmdy"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=red"/></a>
-  <a target="_blank" href = "https://www.facebook.com/danieleverest0214"><img src="https://img.shields.io/badge/-Facebook-%23333?style=for-the-badge&logo=facebook&logoColor=blue"/></a>
-  <a target="_blank" href = "https://twitter.com/danieleverest18"><img src="https://img.shields.io/badge/-Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=blue"/></a>
+<!--   <a target="_blank" href = "https://www.instagram.com/danieleverest214?igsh=c3h1YTZ5amF0bmdy"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=red"/></a> -->
+<!--   <a target="_blank" href = "https://www.facebook.com/danieleverest0214"><img src="https://img.shields.io/badge/-Facebook-%23333?style=for-the-badge&logo=facebook&logoColor=blue"/></a> -->
+<!--   <a target="_blank" href = "https://twitter.com/danieleverest18"><img src="https://img.shields.io/badge/-Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=blue"/></a> -->
   <a target="_blank" href = "https://discordapp.com/users/1206442515150938123"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=blue"/></a>
   <a target="_blank" href = "https://t.me/genius_sunshine"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=blue"/></a>
   <a target="_blank" href = "https://join.skype.com/invite/eKp0b5gqrj8i"><img src="https://img.shields.io/badge/-Skype-%23333?style=for-the-badge&logo=skype&logoColor=blue" /></a>
