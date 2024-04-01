@@ -1,10 +1,3 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
-
-<p align="center">
-  <img src="https://github.com/danieleverest/danieleverest/blob/main/logo.png" width="300"/>
-</p>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=800&height=100&lines=Code+is+Life..&hearts;++;Analytical+and+Problem-Solving,;Adaptablility+and+Flexability,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
