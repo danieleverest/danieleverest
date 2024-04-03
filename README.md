@@ -20,8 +20,8 @@
     <td>
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="48" height="48" />
-        <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
         <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+        <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
         <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
@@ -43,8 +43,7 @@
     </td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
-        <img src="https://skillicons.dev/icons?i=react" alt="React" />
+        <img src="https://skillicons.dev/icons?i=androidstudio,react" alt="Android Studio, React Native" />
         <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
         <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" width="48" height="48" />
       </a>
