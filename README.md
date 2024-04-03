@@ -3,18 +3,18 @@
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
-- React.js, Angular.js, Next.js, Node.js / Express, MongoDB, Redux, Vite, Material-TailwindCSS
+- React.js, Next.js, Node.js / Express, MongoDB, Redux, Vite, Material-TailwindCSS
 
 
 ## Languages & Tools
 
 <table>
   <tr>
-    <th><h3 align="left">Frontend</h3></th>
-    <th><h3 align="left">Backend</h3></th>
-    <th><h3 align="left">Mobile</h3></th>
-    <th><h3 align="left">Database</h3></th>
-    <th><h3 align="left">Tools</h3></th>
+    <th><h3 align="center">Frontend</h3></th>
+    <th><h3 align="center">Backend</h3></th>
+    <th><h3 align="center">Mobile</h3></th>
+    <th><h3 align="center">Database</h3></th>
+    <th><h3 align="center">Tools</h3></th>
   </tr>
   <tr>
     <td>
@@ -57,11 +57,11 @@
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,github,gitlab,azure,vscode" alt="Git, GitHub, GitLab, Azure, VS Code" />
         <img src="https://skillicons.dev/icons?i=figma,photoshop,nginx,postman,visualstudio" alt="Figma, Photoshop, Nginx, Postman, Visual Studio" />
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="36" height="36" />
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="36" height="36" />
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="36" height="36" />
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="36" height="36" />
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="36" height="36" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="37" height="37" />
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="37" height="37" />
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="37" height="37" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="37" height="37" />
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="37" height="37" />
       </a>
     </td>
   </tr>
