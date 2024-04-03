@@ -22,14 +22,14 @@
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="48" height="48" />
         <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
         <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="48" height="48" />
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
         <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
         <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" />
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
         <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" />
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="48" height="48" />
         <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="48" height="48" />
     </td>
     <td>
