@@ -11,10 +11,7 @@
 
 <p align="left">
   <a href = "mailto:danieleverest0214@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
-<!--   <a target="_blank" href = "https://www.linkedin.com/in/danieleverest214"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue"/></a> -->
-<!--   <a target="_blank" href = "https://www.instagram.com/danieleverest214?igsh=c3h1YTZ5amF0bmdy"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=red"/></a> -->
-<!--   <a target="_blank" href = "https://www.facebook.com/danieleverest0214"><img src="https://img.shields.io/badge/-Facebook-%23333?style=for-the-badge&logo=facebook&logoColor=blue"/></a> -->
-<!--   <a target="_blank" href = "https://twitter.com/danieleverest18"><img src="https://img.shields.io/badge/-Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=blue"/></a> -->
+  <a target="_blank" href = "https://www.linkedin.com/in/danieleverest214"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
   <a target="_blank" href = "https://discordapp.com/users/1206442515150938123"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=blue"/></a>
   <a target="_blank" href = "https://t.me/genius_sunshine"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=blue"/></a>
   <a target="_blank" href = "https://join.skype.com/invite/eKp0b5gqrj8i"><img src="https://img.shields.io/badge/-Skype-%23333?style=for-the-badge&logo=skype&logoColor=blue" /></a>
@@ -24,14 +21,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!--
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:naz.yeasin@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieleverest0214/)
-![](https://komarev.com/ghpvc/?username=danieleverest&color=brightgreen&style=for-the-badge)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/yeazin.io)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
--->
 
 
 ## Hello, Welcome to my Github!
@@ -104,11 +93,11 @@ Let's connect and explore collaboration possibilities.</p>
 
 ## Github Stats
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github-readme-activity-graph.vercel.app/graph?username=danieleverest&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=danieleverest&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
-</p>
+</p> -->
 
   <br />
     <p align="center">
