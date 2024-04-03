@@ -41,7 +41,7 @@
     <td>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=androidstudio,react" alt="Android Studio, React Native" />
-        <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
+        <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="45" height="45" />
         <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" width="45" height="45" />
       </a>
     </td>
@@ -57,11 +57,11 @@
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,github,gitlab,azure,vscode" alt="Git, GitHub, GitLab, Azure, VS Code" />
         <img src="https://skillicons.dev/icons?i=figma,photoshop,nginx,postman,visualstudio" alt="Figma, Photoshop, Nginx, Postman, Visual Studio" />
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="45" height="45" />
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="45" height="45" />
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="45" height="45" />
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="45" height="45" />
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="45" height="45" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="40" height="40" />
       </a>
     </td>
   </tr>
