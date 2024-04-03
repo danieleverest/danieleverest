@@ -20,14 +20,13 @@
     <td>
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="48" height="48" />
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="48" height="48" />
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="HTML, CSS, Bootstrap" />
-        <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" />
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss" alt="HTML, CSS, Bootstrap, Tailwind CSS" />
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
         <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
         <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" />
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="48" height="48" />
         <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="48" height="48" />
     </td>
     <td>
@@ -43,13 +42,13 @@
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=androidstudio,react" alt="Android Studio, React Native" />
         <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
-        <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" width="48" height="48" />
+        <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" width="45" height="45" />
       </a>
     </td>
     <td>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
         <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" />
       </a>
@@ -58,11 +57,11 @@
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,github,gitlab,azure,vscode" alt="Git, GitHub, GitLab, Azure, VS Code" />
         <img src="https://skillicons.dev/icons?i=figma,photoshop,nginx,postman,visualstudio" alt="Figma, Photoshop, Nginx, Postman, Visual Studio" />
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="48" height="48" />
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="48" height="48" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="45" height="45" />
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="45" height="45" />
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="45" height="45" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="45" height="45" />
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="45" height="45" />
       </a>
     </td>
   </tr>
