@@ -74,7 +74,7 @@
   <a href = "mailto:danieleverest0214@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
   <a target="_blank" href = "https://www.linkedin.com/in/danieleverest214"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
   <a target="_blank" href = "https://discordapp.com/users/1206442515150938123"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=blue"/></a>
-  <a target="_blank" href = "https://t.me/genius_sunshine"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=blue"/></a>
+  <a target="_blank" href = "https://t.me/sunshine18920"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=blue"/></a>
 </p>
 
 
